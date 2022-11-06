@@ -1,0 +1,5 @@
+/backend/db.sqlite3
+*.pyc
+.DS_Store
+line/
+line
