@@ -9,7 +9,7 @@ import psycopg2
 import os
 
 # 接続先DBの設定
-DATABASE = "postgresql://ewouccfybcpusn:129a6be4478493115e46b969f5c3925a8c91650dfef1555505470ea8c49ba361@ec2-34-239-241-121.compute-1.amazonaws.com:5432/dd01v6ev0tbt0"
+DATABASE = ""
 
 # Engine の作成
 
